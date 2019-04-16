@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Adresar SYSTEM "DTDfajl.dtd">
+
+<Adresar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
+  <Osoba Id="1">
+    <PunoIme>
+      <Ime>Momcilo</Ime>
+      <Prezime>Stevic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>07</Dan>
+      <Mesec>07</Mesec>
+      <Godina>1993</Godina>
+    </DatumRodjenja>
+    <Adresa tip="Stalna">
+      <Ulica>Bulevar kralja Aleksandra</Ulica>
+      <Broj>164</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Mobilni">0612223953</Telefon>
+    <Email tipEmaila="Privatna">momcilo.stevic993@gmail.com</Email>
+    <Email tipEmaila="Sluzbena">mo.stevic@gmail.com</Email>
+    <Email tipEmaila="Privatna">moma.steva@gmail.com</Email>
+  </Osoba>
+  <Osoba Id="2">
+    <PunoIme>
+      <Ime>Darija</Ime>
+      <SrednjeIme>Dragan</SrednjeIme>
+      <Prezime>Nesic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>04</Dan>
+      <Mesec>02</Mesec>
+      <Godina>1998</Godina>
+    </DatumRodjenja>
+    <Adresa tip="Stalna">
+      <Ulica>Bulevar kralja Aleksandra</Ulica>
+      <Broj>164</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Mobilni">0641112333</Telefon>
+    <Email tipEmaila="Privatna">darija.nesic@gmail.com</Email>
+  </Osoba>
+  <Osoba Id="3">
+    <PunoIme>
+      <Ime>Dragan</Ime>
+      <SrednjeIme>Miodrag</SrednjeIme>
+      <Prezime>Stevic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>28</Dan>
+      <Mesec>02</Mesec>
+      <Godina>1968</Godina>
+    </DatumRodjenja>
+    <Adresa tip="Stalna">
+      <Ulica>Marsala Tita</Ulica>
+      <Broj>75</Broj>
+      <Grad>Veliko Gradiste</Grad>
+    </Adresa>
+    <Telefon tip="Mobilni">0637743593</Telefon>
+    <Email tipEmaila="Privatna">gana.stevic@gmail.com</Email>
+  </Osoba>
+  <Kompanija Id="1">
+    <ImeKompanije>MoInc.</ImeKompanije>
+    <Adresa tip="Stalna">
+      <Ulica>Veljka Ramadanovica</Ulica>
+      <Broj>24</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Fiksni">0112223444</Telefon>
+    <Email tipEmaila="Privatna">momcilo.stevic993@gmail.com</Email>
+    <Email tipEmaila="Sluzbena">mo.inc@gmail.com</Email>
+  </Kompanija>
+  <Kompanija Id="2">
+    <ImeKompanije>Sitel</ImeKompanije>
+    <Adresa tip="Stalna">
+      <Ulica>Spanskih boraca</Ulica>
+      <Broj>6</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Fiksni">0112345678</Telefon>
+    <Email tipEmaila="Privatna">darija.nesic@gmail.com</Email>
+    <Email tipEmaila="Sluzbena">darija.sitel@gmail.com</Email>
+  </Kompanija>
+  <Kompanija Id="3">
+    <ImeKompanije>IKEA</ImeKompanije>
+    <Adresa tip="Stalna">
+      <Ulica>Knez Mihajlova</Ulica>
+      <Broj>5</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon tip="Fiksni">0110987654</Telefon>
+    <Email tipEmaila="Privatna">gana.stevic@gmail.com</Email>
+    <Email tipEmaila="Sluzbena">dragan.ikea@gmail.com</Email>
+  </Kompanija>
+</Adresar>
+
