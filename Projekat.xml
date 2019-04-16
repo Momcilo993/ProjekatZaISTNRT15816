@@ -14,7 +14,7 @@ xsi:noNamespaceSchemaLocation="ProjekatSchema.xsd">
       <Godina>1993</Godina>
     </DatumRodjenja>
     <Adresa tip="Stalna">
-      <Ulica>Bulevar kralja Aleksandra</Ulica>
+      <Ulica>Veljka Ramadanovica</Ulica>
       <Broj>164</Broj>
       <Grad>Beograd</Grad>
     </Adresa>
